@@ -2,3 +2,4 @@
 .env
 *.docx
 Chatbotenv/
+__pycache__
